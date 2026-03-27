@@ -64,7 +64,7 @@ function App() {
 
             {/* Resume */}
             <a
-              href="https://drive.google.com/file/d/171JnstEBM0p8qTSfnbpo2sA1UyYkkD4t/preview"
+              href="https://drive.google.com/file/d/1Jpg-4zYcUUqVCDRUcYfs-G7xmj_LLynI/view?usp=drivesdk"
               target="_blank"
               rel="noopener noreferrer"
               className="px-6 py-3 border border-cyan-400 rounded-lg hover:bg-cyan-400 hover:text-black transition"
