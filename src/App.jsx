@@ -63,14 +63,14 @@ function App() {
           <div className="mt-6 flex flex-wrap justify-center gap-4">
 
             {/* Resume */}
-            <a
-              href="https://drive.google.com/file/d/1Jpg-4zYcUUqVCDRUcYfs-G7xmj_LLynI/view?usp=drivesdk"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="px-6 py-3 border border-cyan-400 rounded-lg hover:bg-cyan-400 hover:text-black transition"
-            >
-              View Resume
-            </a>
+<a
+  href="https://drive.google.com/uc?export=download&id=1Jpg-4zYcUUqVCDRUcYfs-G7xmj_LLynI"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="px-6 py-3 border border-cyan-400 rounded-lg hover:bg-cyan-400 hover:text-black transition"
+>
+  View Resume
+</a>
 
             {/* GitHub */}
             <a
