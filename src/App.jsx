@@ -62,21 +62,21 @@ function App() {
           {/* BUTTONS */}
           <div className="mt-6 flex flex-wrap justify-center gap-4">
 
-            <a
-              href="/GOSUKULA KUMAR RESUME.pdf"
-              target="_blank"
-              className="px-6 py-3 border border-cyan-400 rounded-lg hover:bg-cyan-400 hover:text-black"
-            >
-              View Resume
-            </a>
-
-            <a
-              href="https://github.com/kumar44254425"
-              target="_blank"
-              className="px-6 py-3 border border-cyan-400 rounded-lg hover:bg-cyan-400 hover:text-black"
-            >
-              GitHub
-            </a>
+            
+                    <a
+                href="https://drive.google.com/file/d/171JnstEBM0p8qTSfnbpo2sA1UyYkkD4t/preview"
+                       target="_blank"
+                     rel="noopener noreferrer"
+                   className="px-4 py-2 sm:px-6 sm:py-3 border border-cyan-400 rounded-lg hover:bg-cyan-400 hover:text-black transition"
+                        >
+                     View Resume
+                       </a>
+                 target="_blank"
+                   rel="noopener noreferrer"
+              className="px-4 py-2 sm:px-6 sm:py-3 border border-cyan-400 rounded-lg hover:bg-cyan-400 hover:text-black transition"
+               >
+             View Resume
+                  </a>
 
             <a
               href="https://www.linkedin.com/in/kumargosukula/"
